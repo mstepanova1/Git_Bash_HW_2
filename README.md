@@ -45,31 +45,31 @@ another string
 
 `cat >> tf_3.txt`  
 `the second 2`
-<pre><kbd>ctrl</kbd>+<kbd>c</kbd></pre>
+<pre><kbd>ctrl</kbd>+<kbd>d</kbd></pre>
 
 10. Через cat добавить в текстовый файл tf_3.txt строку “the sec 2”  
 
 `cat >> tf_3.txt`  
 `the sec 2`
-<pre><kbd>ctrl</kbd>+<kbd>c</kbd></pre>
+<pre><kbd>ctrl</kbd>+<kbd>d</kbd></pre>
 
 11. Через cat добавить в текстовый файл tf_2.txt строку “the sec 3”  
 
 `cat >> ../tf_2.txt`  
 `the sec 2`
-<pre><kbd>ctrl</kbd>+<kbd>c</kbd></pre>
+<pre><kbd>ctrl</kbd>+<kbd>d</kbd></pre>
 
 12. Через cat добавить в текстовый файл tf_3.txt строку “the SeCoNd 2”  
 
 `cat >> tf_3.txt`  
 `the SeCoNd 2`
-<pre><kbd>ctrl</kbd>+<kbd>c</kbd></pre> 
+<pre><kbd>ctrl</kbd>+<kbd>d</kbd></pre> 
  
 13. Через cat добавить в текстовый файл tf_2.txt строку “the seConD 2”  
 
 `cat >> ../tf_2.txt`  
 `the seConD 2`
-<pre><kbd>ctrl</kbd>+<kbd>c</kbd></pre>
+<pre><kbd>ctrl</kbd>+<kbd>d</kbd></pre>
 
 14. Сделать текстовый файл tf_4.txt, в котором будет 15 строк
 
