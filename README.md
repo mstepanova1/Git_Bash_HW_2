@@ -81,6 +81,13 @@ another string
 `yy14p`  
 `:wq`  
 
+или  
+
+```
+for i in {1..14}
+do echo string to copy >> tf_4.txt
+done
+```
 15. Сделать текстовый файл tF_5.txt, в котором будет 13 строк  
 
 `vim tF_5.txt`  
@@ -91,6 +98,13 @@ another string
 `yy12p`  
 `:wq`  
 
+или  
+
+```
+for i in {1..12}
+do echo another string to copy >> tF_5.txt
+done
+```
 16. Вывести список всех файлов в папке  
 - `ls -la`
 - `ls -la | grep ^-`
